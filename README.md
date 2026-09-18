@@ -12,7 +12,6 @@ I am an aspiring Software Development Engineer who loves the mechanics of figuri
 
 ---
 
-### Technical Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
