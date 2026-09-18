@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-> CS student at United International University and aspiring SDE, passionate about algorithmic problem-solving and software development
+> Computer Science student at United International University and aspiring SDE, passionate about problem solving and software development
 
 
 <div align="center">
