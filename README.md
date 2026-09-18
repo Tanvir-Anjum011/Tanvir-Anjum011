@@ -8,8 +8,7 @@
 ---
 
 ### About Me
-I am an aspiring Software Development Engineer who loves the mechanics of figuring things out. Currently studying CS at United International University, I divide my time between algorithmic problem solving and building functional applications. Consistently improving how I approach technical challenges.
-
+CS student at United International University and aspiring SDE, passionate about algorithmic problem-solving and engineering functional software.
 ---
 
 
