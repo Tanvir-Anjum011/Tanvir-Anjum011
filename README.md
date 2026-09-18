@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Tanvir Anjum Turjo</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;Problem+Solver;CS+Undergraduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Development+Engineer;Problem+Solver;CS+Undergraduate" alt="Typing SVG" />
   </a>
 </div>
 
