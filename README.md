@@ -8,8 +8,7 @@
 ---
 
 ### About Me
-CS student at United International University and aspiring SDE, passionate about algorithmic problem-solving and engineering functional software.
----
+> CS student at United International University and aspiring SDE, passionate about algorithmic problem-solving and engineering functional software.---
 
 
 <div align="center">
